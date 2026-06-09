@@ -1,6 +1,6 @@
 # **Model Compression**
 
-Model compression refers to techniques used to reduce the size and computational requirements of machine learning models—particularly large language models (LLMs)—without significantly sacrificing performance.
+Model compression refers to techniques used to reduce the size and computational requirements of machine learning models—particularly large language models (LLMs) - without significantly sacrificing performance.
 
 ## 🔧 5 Main Techniques to Compress or Optimize LLMs
 
